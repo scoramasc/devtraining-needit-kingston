@@ -108,11 +108,11 @@
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8aeac21bdb8b23003f0e146139961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name/>
-            <sys_package/>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name/>
+            <sys_update_name>sys_ui_list_x_58872_needit_needit_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-01-22 10:11:40</sys_updated_on>
             <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
